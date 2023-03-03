@@ -1,3 +1,15 @@
+@import './components/AppHeader/app-header.scss';
+@import './components/TreeView/TreeView.scss';
+@import './components/Viewer/Viewer.scss';
+@import './components/Viewer/FileLoading.scss';
+@import './content/LandingPage/landing-page.scss';
+@import './content/AboutPage/about-page.scss';
+@import './content/Iocr/Iocr.scss';
+@import './content/ShippingForms/ShippingForms.scss';
+
+
+
+
 .App {
   text-align: center;
 }
